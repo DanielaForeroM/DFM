@@ -5,6 +5,11 @@ body {
     margin: 0;
     padding: 20px;
 }
+*{
+    font-size:15px ;
+    font-family:Arial, Helvetica, sans-serif ;
+    background: linear-gradient(to right, rgb(112, 225, 245), rgb(255, 209, 148));
+}
 .container {
     max-width: 800px;
     margin: auto;
